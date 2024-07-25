@@ -18,7 +18,7 @@ const Hero = () => {
           className='absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]'        
         />  
         {/* Hero text content */}
-        <h1 className='bold-52 lg:bold-88'>Putuk Truno Camp Area</h1>
+        <h1 className='bold-52 lg:bold-88'>Masai Mara Camp Area</h1>
         <p className='regular-16 mt-6 text-gray-30 xl:max-w-[520px]'>
           We want to be on each of your journeys seeking the satisfaction of seeing the incrruptible beauty of nature, We can help you on an adventure round the world in just one app
         </p>  
@@ -73,7 +73,7 @@ const Hero = () => {
           />
         </div>
 
-        <p className='bold-20 text-white'>Aguas Calientes</p>
+        <p className='bold-20 text-white'>Narok County</p>
 
         <div className='flexBetween mt-5'>
           <div className='flex flex-col'>

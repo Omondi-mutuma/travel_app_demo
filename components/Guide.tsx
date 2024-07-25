@@ -43,12 +43,12 @@ const Guide = () => {
                 <p className='regular-16 text-gray-20'>Destination</p>
                 <p className='bold-16 text-green-50'>48 min</p>
               </div>
-              <p className='bold-20 mt-2'>Aguas Calientes</p>
+              <p className='bold-20 mt-2'>Masai Mara</p>
             </div>
 
             <div className='flex w-full flex-col'>   
                 <p className='regular-16 text-gray-20'>Start track</p>
-                <h4 className='bold-20 mt-2 whitespace-nowrap'>Wonohore Pasaun</h4>
+                <h4 className='bold-20 mt-2 whitespace-nowrap'>Nairobi County</h4>
             </div>
           </div>
         </div>
